@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Intention Groove Framework",
+  "alternateName": "Intention Groove OS",
+  "author": {
+    "@type": "Organization",
+    "name": "Manifest Music Studio",
+    "url": "https://manifestmusic.studio",
+    "sameAs": [
+      "https://github.com/manifestmusicstudio",
+      "https://twitter.com/manifestmusic"
+    ]
+  },
+  "description": "A psychoacoustic operational framework for designing audio architecture that optimizes human cognitive state, synthesizing ancient sound technologies with modern neuroscience.",
+  "version": "2.0.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": "Psychoacoustics, Neuroplasticity, Music Therapy, Biohacking, Cognitive Architecture",
+  "hasPart": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M01",
+      "name": "Onomaturgy",
+      "description": "Naming and Defining Reality. Based on Self-Perception Theory and the Labeling Effect."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M02",
+      "name": "Mantra",
+      "description": "Subconscious reprogramming via rhythmic repetition and neuroplasticity."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M03",
+      "name": "Origin",
+      "description": "Reframing trauma via narrative memory reconsolidation."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M04",
+      "name": "Unbinding",
+      "description": "Setting boundaries and cortisol discharge via controlled catharsis."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M05",
+      "name": "Activation",
+      "description": "Visual and auditory anchoring via Dual Coding Theory."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M06",
+      "name": "Harmonization",
+      "description": "Regulation of the Vagus Nerve via rhythmic entrainment and frequency."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M07",
+      "name": "Cataloging",
+      "description": "Resource accumulation and cognitive priming via enumeration."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M08",
+      "name": "Liminality",
+      "description": "Accessing the subconscious during theta-wave states (hypnagogia)."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M09",
+      "name": "Binding",
+      "description": "Physical anchoring of intention based on Embodied Cognition."
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "M10",
+      "name": "Embodiment",
+      "description": "Somatic release and stress cycle completion via physical movement."
+    }
+  ]
+}
