@@ -93,6 +93,10 @@ For machine-readable definitions of this framework (compatible with Schema.org),
 
 ## ⚠️ Legal & IP Notice
 
+### Technical Disclosure (Prior Art)
+For legal purposes, the full technical methodology and system architecture are disclosed in the following timestamped document:
+📄 **[Download Technical Disclosure (PDF)](./docs/Methodology_System_and_Method_for_Neuro_Adaptive_Audio.pdf)**
+
 ### Documentation License (Open)
 The text of this framework documentation is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 *   ✅ You are free to share, copy, and adapt this methodology.
