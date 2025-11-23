@@ -72,6 +72,12 @@ The Intention Groove™ framework is an **Operating System (OS)**. It can be ins
 *   **Mechanic:** **M06 (Harmonization)**.
 *   **Use Case:** Sleep, Meditation, Anxiety reduction.
 
+### 3.4. The Generative Protocol (AI + Human)
+This framework utilizes a **Hybrid Synthesis Model**:
+*   **The Architect (Human):** Defines the Intention, Semantic Code (Lyrics), and Structural Blueprint.
+*   **The Engine (AI):** Acts as the synthesizer to manifest the frequency using Large Audio Models (LAMs).
+*   **The Calibration (Human):** Final tuning of resonance and arrangement for maximum efficacy.
+
 ---
 
 ## 🛡 4. Sonic Hygiene Standards
@@ -95,12 +101,12 @@ For machine-readable definitions of this framework (compatible with Schema.org),
 
 ### Technical Disclosure (Prior Art)
 For legal purposes, the full technical methodology and system architecture are disclosed in the following timestamped document:
-📄 **[Download Technical Disclosure (PDF)](./docs/Methodology_System_and_Method_for_Neuro_Adaptive_Audio.pdf)**
+📄 **[Download Technical Disclosure (PDF)](./docs/Manifest_Protocol_Whitepaper.pdf)**
 
 ### Documentation License (Open)
 The text of this framework documentation is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 *   ✅ You are free to share, copy, and adapt this methodology.
-*   ✅ You must give appropriate credit to **Manifest Music Studio**.
+*   ✅ You must give appropriate credit to **ManifestMusic.Studio**.
 
 ### Asset License (Closed)
 The actual audio recordings, musical compositions, lyrics, and software products produced by Manifest Music Studio are **Copyright © All Rights Reserved**.
@@ -109,5 +115,5 @@ The actual audio recordings, musical compositions, lyrics, and software products
 
 ---
 
-**Maintained by [Manifest Music Studio](https://manifestmusic.studio)**
+**Maintained by [ManifestMusic.Studio](https://manifestmusic.studio)**
 *Tune Your Mind. Design Your Reality.*
