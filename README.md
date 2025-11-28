@@ -43,7 +43,7 @@ The framework is built upon 10 fundamental mechanics ("The Decalogue") derived f
 | **M04** | **Unbinding** | Boundaries & Catharsis | Norse *Níð*, Irish *Glám dícenn* | **Cortisol Discharge:** Controlled aggression releases stress. | `PROTOCOL 04: THE BLADE` |
 | **M05** | **Activation** | Symbol + Sound | Norse *Galdr*, Hermetic Sigils | **Dual Coding Theory:** Visual + Audio = 2x retention. | `PROTOCOL 05: THE SYMBOL` |
 | **M06** | **Harmonization** | Regulation | Greek *Orphic*, Pythagorean | **Polyvagal Theory:** Vagus nerve stimulation via frequency. | `PROTOCOL 06: THE TRANCE` |
-| **M07** | **Cataloging** | Resource Accumulation | Celtic *Amergin* | **Cognitive Priming:** Flooding associative networks. | `PROTOCOL 07: CATALOG` |
+| **M07** | **Compilation** | Reality Assembly | Tibetan *Yidam* | **Constructive Simulation:** Memory/Imagination overlap.	 | `PROTOCOL 07: COMPILATION` |
 | **M08** | **Liminality** | Hypnagogic Access | Roman *Carmen* | **Theta Waves:** Increased suggestibility at sleep onset. | `PROTOCOL 08: THRESHOLD` |
 | **M09** | **Binding** | Physical Anchoring | Hellenic *Katadesmos* | **Embodied Cognition:** Tactile feedback reinforces thought. | `PROTOCOL 09: VESSEL` |
 | **M10** | **Embodiment** | Somatic Release | Dervish Whirling, *Haka* | **Somatic Processing:** Completing the stress cycle via movement. | `PROTOCOL 10: EMBODIMENT` |
